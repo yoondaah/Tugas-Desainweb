@@ -1,0 +1,42 @@
+h2{
+    color:dodgerblue;
+    border: yellowgreen;
+    background: green;
+}
+
+p{
+    color:darkcyan;
+    border: cornflowerblue dashed;
+}
+
+h1{
+    color:darkmagenta;
+    border: green;
+    background: black;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: left;
+}
+
+/*menggunakan class*/
+h1.judul{
+    color:white;
+    text-align: center;
+}
+
+/*id*/
+#sejarah{
+    color: gray;
+}
+
+thead{
+    color:red;
+}
+tbody{
+    color:royalblue;
+}
